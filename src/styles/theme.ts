@@ -11,8 +11,8 @@ export default {
       "Gotham, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif",
     light: 300,
     book: 400,
-    bold: 600,
-    black: 700,
+    bold: 700,
+    black: 800,
     sizes: {
       xsmall: '1.2rem',
       small: '1.4rem',
@@ -20,7 +20,7 @@ export default {
       large: '1.8rem',
       xlarge: '2.0rem',
       xxlarge: '2.8rem',
-      huge: '5.2rem'
+      huge: '4.8rem'
     }
   },
   colors: {
