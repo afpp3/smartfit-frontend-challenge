@@ -23,7 +23,7 @@
     "next": "11.1.2",
     "react": "17.0.2",
     "react-dom": "17.0.2",
-    "styled-components": "^5.3.1",
+    "styled-components": "^5.3.3",
     "styled-media-query": "^2.1.2"
   },
   "devDependencies": {
@@ -47,7 +47,7 @@
     "eslint-plugin-prettier": "^4.0.0",
     "eslint-plugin-react": "^7.26.1",
     "eslint-plugin-react-hooks": "^4.3.0",
-    "jest": "^27.2.4",
+    "jest": "^27.4.3",
     "jest-styled-components": "^7.0.8",
     "plop": "^3.0.1",
     "prettier": "2.4.1",
