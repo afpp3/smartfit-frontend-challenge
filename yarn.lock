@@ -1555,10 +1555,10 @@
   resolved "https://registry.yarnpkg.com/@types/stack-utils/-/stack-utils-2.0.1.tgz#20f18294f797f2209b5f65c8e3b5c8e8261d127c"
   integrity sha512-Hl219/BT5fLAaz6NDkSuhzasy49dwQS/DSdu4MdggFB8zcXv7vflBI3xp7FEmkmdDkBUI2bPUNeMttp2knYdxw==
 
-"@types/styled-components@^5.1.16":
-  version "5.1.16"
-  resolved "https://registry.yarnpkg.com/@types/styled-components/-/styled-components-5.1.16.tgz#e6cb31301ff8d6b99e25502d2bea754069c1efc9"
-  integrity sha512-pj5zI2VvK86VB9vS5exwXpIvQxiiwVfBTmMYcfMzwQAhB6s+x0a7o2JKzsGviWgjjosuwfYlOyf3JrEvmLPhtg==
+"@types/styled-components@^5.1.22":
+  version "5.1.22"
+  resolved "https://registry.yarnpkg.com/@types/styled-components/-/styled-components-5.1.22.tgz#ee6206582d3da11fa2f9951e858aefebee37ff20"
+  integrity sha512-zQzf/0aGtgFDjB942f8IaKA6UilFziDza9wXkAX5mpiSWA/FBZBU6yUavvczulTvoR6759h6CH8HuuIcJDBgZA==
   dependencies:
     "@types/hoist-non-react-statics" "*"
     "@types/react" "*"
@@ -4542,8 +4542,7 @@ jest-worker@27.0.0-next.5:
     merge-stream "^2.0.0"
     supports-color "^8.0.0"
 
-jest-worker@^27.2.4, jest-worker@^27.4.2:
-
+jest-worker@^27.4.2:
   version "27.4.2"
   resolved "https://registry.yarnpkg.com/jest-worker/-/jest-worker-27.4.2.tgz#0fb123d50955af1a450267787f340a1bf7e12bc4"
   integrity sha512-0QMy/zPovLfUPyHuOuuU4E+kGACXXE84nRnq6lBVI9GJg5DCBiA97SATi+ZP8CpiJwEQy1oCPjRBf8AnLjN+Ag==
