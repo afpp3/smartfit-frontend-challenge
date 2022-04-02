@@ -9,7 +9,7 @@ export const Wrapper = styled.div`
 
     color: ${theme.colors.darkGrey};
     font-weight: ${theme.font.light};
-    border-bottom: 1px solid ${theme.colors.lightGrey};
+    border-bottom: 2px solid ${theme.colors.gray100};
   `}
 `
 

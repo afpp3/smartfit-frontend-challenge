@@ -9,7 +9,7 @@ function App({ Component, pageProps }: AppProps) {
   return (
     <ThemeProvider theme={theme}>
       <Head>
-        <title>Boilerplate</title>
+        <title>Smartfit</title>
         <link rel="shortcut icon" href="favicon.ico" />
         <meta
           name="description"
